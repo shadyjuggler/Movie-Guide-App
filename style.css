@@ -120,11 +120,13 @@ button {
 }
 
 .content-general {
+    
     display: flex;
 }
 
 .content-general-descr {
     width: 100%;
+    margin-top: 5vh;
     display: flex;
     flex-direction: column;
     align-items: center;
